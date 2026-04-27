@@ -1,5 +1,5 @@
 Wind Pattern Analysis in Santa Marianita (Kiteboarding Conditions)
-📌 Project Overview
+ Project Overview
 
 This project analyzes wind conditions in Santa Marianita, Ecuador, a coastal location known for kiteboarding competitions, including events where I have personally competed.
 
